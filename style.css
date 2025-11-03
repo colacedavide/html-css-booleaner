@@ -1,0 +1,14 @@
+header {
+    background-color: blue;
+    background-image: url(./imgs/pattern.png);
+    padding-top: 60px;
+}
+
+#logo {
+    width: 150px;
+}
+
+#uno {
+   width: 500;
+   background-color: aqua;
+}
